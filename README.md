@@ -39,8 +39,7 @@ contains some small demo, Objective-C code
 }
 ```
 这里写了一个category,方便项目中其它地方的使用，简少代码的耦合；
-我把项目上传到我的github上面了，有兴趣的朋友可以看一下,欢迎交流指正；
-https://github.com/LINDreaming/DelibrateProject
+欢迎交流指正；
 
 
 
