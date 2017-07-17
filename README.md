@@ -1,7 +1,9 @@
 # DelibrateProject
 contains some small demo, Objective-C code
 简述：NSTimer是iOS系统的计时控件,下面介绍NSTimer的使用，简单详细：
+
 ![这里写图片描述](http://img.blog.csdn.net/20170714175504342?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU3VuRmxvd2VySW5SYWlu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
   1. Timer的开启:
 ```
 + (NSTimer *)scheduledTimerWithTimeInterval:(NSTimeInterval)interval repeats:(BOOL)repeats block:(void (^)(NSTimer *timer))block 
@@ -39,7 +41,10 @@ contains some small demo, Objective-C code
 }
 ```
 这里写了一个category,方便项目中其它地方的使用，简少代码的耦合；
-欢迎交流指正；
+
+下面是效果图：（欢迎交流指正,可以关注我的个人博客：http://blog.csdn.net/sunflowerinrain）
+
 ![这里写图片描述](http://img.blog.csdn.net/20170717133938955?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU3VuRmxvd2VySW5SYWlu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 
 
